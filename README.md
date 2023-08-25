@@ -14,7 +14,7 @@ Not applicable for this particular website
 
 ## Usage
 
-Barebones website, used simply for adding and reviewing notes about what I learned developing it. 
+Barebones website, used simply for adding and reviewing notes about what I learned developing it. Open Chrome DevTools with either, CTRL+SHIFT+I (for Windows) or COMMAND+OPTION+I (for MacOS), a console panel will open in the browser, click Console and you will see a list of topics I learned with a random suggestion on what to read first.
 
 ## Credits
 
@@ -54,7 +54,7 @@ Created feature branches as practice. HTML/CSS/JavaScript, don't have any actual
 
 ## How to Contribute
 
-Feednack and thoughts
+Feedback and thoughts
 
 ## Tests
 
