@@ -29,3 +29,7 @@ console.log('Here are the topics we learned through Prework:');
 listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
+
+document.querySelector("html").addEventListener("click", function() {
+    alert("Why are you clicking? There's nothing to click 🤨");
+});
